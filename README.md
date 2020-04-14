@@ -2,13 +2,13 @@
 This project contains the code used by me in my masters project. 
 
 ## Requirements 
-keras==2.2.5
-matplotlib
-numpy
-scipy
-pandas
-Pillow
-xlsxwriter
+keras==2.2.5  
+matplotlib  
+numpy  
+scipy  
+pandas  
+Pillow  
+xlsxwriter  
 
 Along with the above dependencies, the package on Peregrine(HPC clucster) that was used was "Using TensorFlow/1.10.1-fosscuda-2018a-Python-3.6.4". 
 
