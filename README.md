@@ -1,4 +1,4 @@
-# "Constraint based circuit design using Generative Adversarial Networks"
+# "Constraint-based circuit design using Generative Adversarial Networks"
 This project contains the code used by me in my masters project. 
 
 ## Requirements 
